@@ -27,10 +27,10 @@
 
 ## 📌 Featured Project:  
 **PacketUxUi**  
-🔥 An advanced packet based ux & ui library plugin for Minecraft servers.
+🔥 An advanced packet based ux & ui library plugin for Minecraft servers.  
 
-**PacketUI**
-🔥 An advanced multi-version access for net.minecraft.server packets
+**PacketUI**  
+🔥 An advanced multi-version access for net.minecraft.server packets.  
 
 🔗 **Want a custom plugin for your server? [DM me on Discord!](https://discord.com/users/1229051468384964651)**
 
